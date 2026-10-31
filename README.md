@@ -137,7 +137,7 @@ const mohit = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/mohit-suthar-1a3ba6272/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
 &nbsp;

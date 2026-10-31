@@ -122,11 +122,11 @@ const mohit = {
 <div align="center">
 
 <a href="https://github.com/Mohit-Suthar121/E-Commerce-Store">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit-Suthar121&repo=E-Commerce-Store&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mohit-Suthar121&repo=E-Commerce-Store&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Mohit-Suthar121/whatsapp-clone">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit-Suthar121&repo=whatsapp-clone&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mohit-Suthar121&repo=whatsapp-clone&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>

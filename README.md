@@ -21,7 +21,7 @@
 ```javascript
 const mohit = {
     name: "Mohit Suthar",
-    education: "B.Tech CSE (AI) @ SKIT Jaipur",
+    education: "B.Tech CSE @ SKIT Jaipur",
     role: "Full Stack Developer",
     primaryStack: ["React", "Node.js", "Express", "MongoDB"],
     languages: ["Java", "JavaScript"],
